@@ -37,4 +37,3 @@ currently:
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy connecting with people who care about building better systems</b>, so if you want to say hi, talk platform, or swap ideas about security and reliability, I'm always happy to connect.</em>
 
----
