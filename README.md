@@ -6,7 +6,7 @@ Platform & Security Engineer focused on building secure platforms, reliable syst
 
 [![GitHub javierdompablo](https://img.shields.io/github/followers/javierdompablo?label=follow&style=social)](https://github.com/javierdompablo)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/gwZoQmiNyymp12vukB/giphy.gif" width="50"> A little more about me...
 
 ```yaml
 name: Javier Dompablo
