@@ -22,6 +22,8 @@ focus:
   - Developer enablement
 tech:
   - AWS
+  - Azure
+  - GCP
   - Kubernetes
   - Terraform
   - Docker
