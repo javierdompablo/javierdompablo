@@ -1,7 +1,7 @@
 <h2>Hi, I'm Javier Dompablo! </h2>
 
 <p><em>
-Platform & Security Engineer focused on building secure platforms, reliable systems, and smoother paths for the teams using them. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+Platform & Security Engineer focused on building secure platforms, reliable systems, and smoother paths for the teams using them.
 </em></p>
 
 [![GitHub javierdompablo](https://img.shields.io/github/followers/javierdompablo?label=follow&style=social)](https://github.com/javierdompablo)
