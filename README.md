@@ -20,6 +20,13 @@ focus:
   - Security by design
   - Operational clarity
   - Developer enablement
+tech:
+  - AWS
+  - Kubernetes
+  - Terraform
+  - Docker
+  - Linux
+  - GitHub Actions
 currently:
   - Improving platforms
   - Sharing more work on GitHub
